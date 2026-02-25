@@ -1,4 +1,4 @@
-# tsc-incident-reviewer
+# incident-reviewer
 
 Local monorepo with:
 - `backend/` (Java 17, Spring Boot, Maven)
